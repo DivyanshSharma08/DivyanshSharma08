@@ -35,10 +35,10 @@ A passionate Cybersecurity Learner 🛡️
 ![](https://github-contributor-stats.vercel.app/api?username=DivyanshSharma08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!--<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DivyanshSharma08&icon=0&color=0)](https://visitcount.itsvg.in)
