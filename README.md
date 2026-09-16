@@ -127,26 +127,19 @@ Programming
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyanshSharma08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshSharma08&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
 
 ---
 
 ## GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DivyanshSharma08&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 ---
 
 ## Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshSharma08&theme=tokyo-night&hide_border=true"/>
-</p>
+
 
 ---
 
