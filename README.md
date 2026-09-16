@@ -161,11 +161,15 @@ Programming
 
 ---
 
-## Quote
 
-> "Think like a hacker. Build like a defender."
+## 💭 Quote
 
----
+<div align="center">
+
+## 🛡️ "Think like a hacker Build like a defender"
+
+</div>
+
 
 <p align="center">
   <b>Learning. Building. Securing.</b>
